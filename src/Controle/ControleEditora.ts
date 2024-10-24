@@ -1,4 +1,4 @@
-import { Editora } from './Editora';
+import { Editora } from '../modelo/Editora';
 
 const editoras: Array<Editora> = [
   { codEditora: 1, nome: 'Alta Books' },

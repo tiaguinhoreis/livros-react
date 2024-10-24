@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead th {
+  background-color: #343a40;
+  color: white;
+}
+
+tbody td {
+  vertical-align: middle;
+}
+
+button {
+  margin: 0 10px;
+}

@@ -1,4 +1,4 @@
-import { Livro } from './Livro';
+import { Livro } from '../modelo/Livro';
 
 let livros: Array<Livro> = [
   {
